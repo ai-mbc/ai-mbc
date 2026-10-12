@@ -1,22 +1,31 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20이름's%20Profile!&fontSize=45&fontColor=ffffff&animation=fadeIn)
+# ai-mbc · AI 개발 포트폴리오
 
-## 🔗 학습일지 & 프로젝트 LINK
-> 💡 **KDT 기업맞춤형 AI-X 교육과정 (824시간)**  
-> Python 기반 Full-Stack 개발 및 AI 모델링, LLM 학습일지와 프로젝트 공간
+Python 기반 데이터 분석, AI 모델링과 웹서비스 구현을 학습하고 프로젝트로 연결합니다.
+KDT 기업맞춤형 AI-X 교육과정의 학습 기록과 팀 프로젝트 결과를 정리하고 있습니다.
 
-<div align="center">
-<a href="https://github.com/ai-mbc/ai"><img src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="180"></a>
-&nbsp; &nbsp; &nbsp;
-<a href="https://github.com/ai-mbc/1stProject"><img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
-&nbsp; &nbsp; &nbsp;
-<img alt="2차 프로젝트 준비 중" src="https://img.shields.io/badge/🚀%202ND%20PROJECT%20준비%20중-27AE60?style=for-the-badge&logo=github&logoColor=white" width="250">
-</div>
+## 포트폴리오 바로가기
+
+- **[포트폴리오 홈페이지](https://ai-mbc.github.io/)** — 프로젝트 소개와 학습 기록
+- **[1차 프로젝트 · 노른자추적](https://github.com/ai-mbc/1stProject)** — 상권 위험 분석과 창업 업종 추천
+- **[AI 학습 기록](https://github.com/ai-mbc/ai)** — Python, 웹, 데이터베이스, 머신러닝, 딥러닝, LLM 실습
+- **2차 프로젝트** — 준비 중
+
+## 대표 프로젝트
+
+### 노른자추적 · 상권 위험 분석과 창업 추천
+
+상권 폐업 위험 예측과 창업 업종 추천을 주제로 진행한 팀 프로젝트입니다.
+데이터 전처리·모델링 노트북, 학습 모델, 발표자료와 웹 구현 자료를 개인 저장소에서 관리합니다.
+
+→ [프로젝트 설명과 코드 보기](https://github.com/ai-mbc/1stProject)
+
+팀의 공동 결과물과 커밋 이력을 보존하고 있으며, 개인의 담당 역할과 후속 개선 사항은 확인된 내용에 따라 프로젝트 README에 기록합니다.
 
 ---
 
 ## 🛠️ Tech Skills
 
-> 💡 **핵심 역량**
+> 💡 **학습 및 프로젝트 활용 기술**
 > - Python 기반 데이터 분석 및 시각화
 > - 머신러닝 / 딥러닝 모델링 (scikit-learn, TensorFlow)
 > - LLM 활용 서비스 구현 (RAG, OpenAI API, Ollama, Langchain, HuggingFace, Fine-Tuning)
@@ -45,4 +54,3 @@
 | **Deployment** | ![AWS](https://img.shields.io/badge/AWS-0369A1?style=for-the-badge&logo=amazonaws&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-0284C7?style=for-the-badge&logo=python&logoColor=white) ![Render](https://img.shields.io/badge/Render-0EA5E9?style=for-the-badge&logo=render&logoColor=white) |
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-
