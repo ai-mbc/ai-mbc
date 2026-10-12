@@ -7,9 +7,9 @@
 <div align="center">
 <a href="https://github.com/ai-mbc/ai"><img src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="180"></a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://github.com/4aix/1stProject"><img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
+<a href="https://github.com/ai-mbc/1stProject"><img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://github.com/4aix/1stProject"><img src="https://img.shields.io/badge/🚀%202ND%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
+<img alt="2차 프로젝트 준비 중" src="https://img.shields.io/badge/🚀%202ND%20PROJECT%20준비%20중-27AE60?style=for-the-badge&logo=github&logoColor=white" width="250">
 </div>
 
 ---
@@ -45,3 +45,4 @@
 | **Deployment** | ![AWS](https://img.shields.io/badge/AWS-0369A1?style=for-the-badge&logo=amazonaws&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-0284C7?style=for-the-badge&logo=python&logoColor=white) ![Render](https://img.shields.io/badge/Render-0EA5E9?style=for-the-badge&logo=render&logoColor=white) |
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+
